@@ -1,0 +1,272 @@
+#B.O.B
+#Book of Books
+#Introduction:
+>Written by Shiloh Antony John, concepts outside of books maybe included. I try to maintain maximum accuracy but the document may contain mistakes which I am not liable for. These are personal study notes intended for educational purposes and readers are heavily encouraged to buy original books.
+##Atomic Habits by James Clear:
+    • Cue - To break habit, remove cue
+    • Process - To break habit, make process difficult
+    • Reward - Reduce reward to break habit
+    • Repetition
+    • Reverse everything to build a habit. Similar concept in Hooked by Nir Eyal
+    • Improve something 1% at a time
+    • Build systems
+    • Change environment to build/break habit
+    • Use commitment devices to do stuff
+    • Stack habits to form them(Habit stacking)
+    • Track progress, forgive a day or 2
+##Small Data by Martin Lindstrom:
+    • Russia
+        ◦ Cities are identical
+        ◦ Russian weddings are long and unique
+        ◦ Old people play on swings
+    • You can figure out who is the nexus of the family by knowing who placed the 1st fridge magnet
+##Art of Creative Thinking:
+    • Think what happens if it was this way instead. Eg: what if movie was backwards
+    • Get inspired by nature
+    • Dramatic representation
+    • Dont listen to loved ones at times. Someone got Nobel Prize for drinking Pylori Gut Bacteria and curing himself with antibiotics
+    • Focus
+##Business etiquette by Shital Kakkar Mehra:
+    • Dress normal
+    • BREAD - Bread on left, Drink on right
+    • Study culture of place and act accordingly
+    • Dont talk politics and religion as they ignite passion
+##0 to 1 by  Peter Thiel with Blake Masters:
+    • Monopolies claim to be small and small companies big, Monopolies do this to avoid break up
+    • There are 4 essential things to go big:
+        ◦ Patented tech of something thats 10x better that what exists or some breakthrough like cure for cancer
+        ◦ Economies of scale
+        ◦ Network effect
+        ◦ Brand identity
+    • 20% of something controls 80% of other thing
+    • Know business partner well
+    • Marketing is equally as important as prod
+##Think again by Adam Grant:
+    • What you know maybe wrong, think again
+    • High IQ people are more based because they can recognize patterns supporting their ideology but cant see patterns refuting their ideology
+    • Dont trust anyone including authority or famous people
+    • Debate should be open minded. Eg: I am wrong or you are wrong or both of us are wrong.
+    • Use interrogative debate to make people think
+    • Question everything
+    • When debating target their strong points 
+    • Use strong points only, strong points > strong points + weak points
+##Surrounded by Idiots by Thomas Erikson:
+    • Most people are green and least amount of people are red
+    • Red:
+        ◦ Ambitious
+        ◦ Entrepreneur/leadership style
+        ◦ Gets angry quickly
+        ◦ Most likely to think surrounded by idiots
+    • Blue:
+        ◦ Analytical
+        ◦ Calculated
+        ◦ Introvert
+        ◦ Detail obsessed
+    • Yellow:
+        ◦ Friendly
+        ◦ Outgoing
+        ◦ Sales type
+        ◦ Extrovert
+        ◦ Always late
+    • Green:
+        ◦ Ordinary
+        ◦ Introvert
+        ◦ Lazy
+        ◦ Wants time off / not ambitious
+##Hard things about Hard things by Ben Horowitz:
+    • Business is gonna be hard at start
+    • Sometimes you gotta lock in and fix instead of looking for Golden bullet
+    • Business culture is of supreme importance
+    • Hire only passionate people
+    • Respect peoples time
+    • Work hard
+    • If everyone tells you that are wrong(literaly EVERYONE) but you are 51% sure you are right, do what you are sure about
+##Beyond Entrepreneurship by Jim Collins and William C. Lazier:
+    • Do good to humanity
+    • There should be Values and they should be strictly enforced
+    • Purpose of company should guide mission
+    • Mission should be hard but accomplishable within time frame set
+    • There should be constitution for company
+    • Give high salary to high achieving people who don’t want managerial roles
+    • There should be raises, prizes, promotions to boost employee morale
+    • Be honest
+    • Be obsessed with details 
+##Unthink by Chris Paley:
+    • Red makes people look more sexy
+    • Brain doesn’t know difference between fear and lust
+    • Warm climate and warm drinks make people warmer
+    • Curved utensils are better for better reception
+    • There is no free will
+    • Men are just, women are merciful
+##Leapfrog by Mukesh Sud and Priyank Narayan:
+    • Push beyond comfort zone
+    • Give people nudges. Eg: Messi vs Ronaldo trash can
+    • Use such nudges to alter behaviour
+    • Think critically
+##Mindset by Dr. Carol S. Dweck:
+    • Intelligence isnt fixed, have growth instead of fixed minset
+    • Ppl can learn to do anything including drawing
+##Dont sweat the small stuff by Richard Carlson:
+    • Dont think about something you don’t want to think about as it will snowball
+    • Ignore small offenses against you
+##The get things done book by Mikael Krogerus and Roman Tschäppeler:
+    • Collect mental models, for eg(this was Napoleon's mental model):
+        ◦ will he survive with medicine
+        ◦ will he die despite medicine
+        ◦ will he survive without medicine
+    • Book of Books
+    • Radical honesty is necessary
+    • Celebrate small wins
+    • Ask 5 whys
+    • Better to say thank you than sorry. Eg: Thank for waiting instead of sorry for being late
+    • Deliver good news then bad news
+##Proverbs by King Solomon:
+    • Fear of God is beginning of wisdom
+    • Lead a Christian life
+    • Dont do anything against God
+    • Marry a God fearing non nagging woman
+    • Dont talk with fools
+##DOSE by Tj Power:
+    • Dopamine:
+        ◦ Avoid cheap dopamine
+        ◦ Sleep well, eat good food(Low GL Index, sweet potato is good)
+        ◦ Do hard stuff
+        ◦ Sunlight
+    • Oxytocin:
+        ◦ Touch people more
+        ◦ Hug 5 times a day for more that 3-5s
+        ◦ Do things together
+        ◦ Continuously love spouse(rationally)
+        ◦ Have more sex if possible
+    • Serotonin:
+        ◦ 90% of serotonin in produced in the gut
+        ◦ Eat good food
+        ◦ Anti aging
+        ◦ Help others for serotonin
+    • Endorphins:
+        ◦ Exercise
+##The Almanack of Naval Ravikanth by Eric Jorgenson:
+    • Surround yourself with people who bring you up
+    • Kids require love from mom
+    • Work smart and loud
+    • Think long term
+    • Be vary of people who talk too much about their honesty and values
+##Pitch by Danny Fontaine:
+    • 30-60 mins
+    • Cliffhanger - leave them hanging
+    • Time bomb – Within a period of time
+    • StoryCoaster:
+        ◦ Current problems
+        ◦ Our vision
+        ◦ Current issue
+        ◦ Our solution
+        ◦ Dependencies
+        ◦ Secret sauce
+    • TITAN(Three is the Awesomest Number). Eg: Ask for three wishes at end
+    • Engage will all 5 senses during pitch and sales
+    • Ppl have cognitive dissonance
+    • Dont talk people whom you pitched to on the way home
+    • Use 3 everywhere
+    • Be vulnerable to be seen as human
+    • Use Gen AI whenever possible
+##Genome by Matt Ridley:
+    • X and Y chromosomes are always in conflict
+    • Humans evolved to be monogamic
+    • Cortisol and testosterone suppress immune system
+    • All DNA is one
+##Hooked by Nir Eyal:
+    • Cue(Intrinsic/Extrinsic) → Process(very easy[less brain cycles, socially acceptable, least cost, least physical and emotional effort, normal]) → Reward(Variable[Badges/trophy, community, satisfaction from self achievement])→Investment(people overestimate their effort like they like Ikea products)
+    • -ve emotions are more powerful for intrinsic motivation 
+    • Say “if you don’t mind” to make people do things for you
+##Startup Nation by Dan Senor and Saul Singer:
+    • Chutzpah -  Bold, non hierarchical structure with brutal honesty
+    • Failure is a badge of honor
+    • Russian is the 3rd most spoken language in Israel. People speak many languages in Israel
+    • Israeli military has close connection with civilian tech and startups
+    • Jews were 2% of USSR but 30% of lawyers, documentation and engineers
+##The Death of Death by José Luis Cordeiro and David Wood:
+    • Cancer cells and germ cells don’t die so you don’t have to 
+    • Anti aging is possible
+    • Cryogenic freezing and reviving has been done on rats and is possible
+##48 Laws of Power by Robert Greene:
+    • Stay neutral
+    • Talk about why its better for them this way instead of relying on mercy
+##The Power of Persuasion by Rudy Nash:
+    • Hammering(repetition)
+    • Your goal should overlap with their goal
+    • Sell an emotion
+##In Sheep’s Clothing by George Simon:
+    • Manipulators do these:
+        ◦ Gaslight
+        ◦ Victimize
+        ◦ Deny
+        ◦ Minimize
+        ◦ Divert
+        ◦ Evade
+    • Trust Gut feeling when you are feeling something suspicious
+    • They don’t like boundaries and saying no
+    • Psychopaths rush relationships
+##Rework by Jason Fried and David Heinemeier Hansson:
+    • Be careful with taking other peoples money
+    • You can start small(do things yourself)
+    • Sell by products
+    • Hire drop outs
+    • Hire talent from anywhere(adjust time zone)
+    • Test drive employees
+    • Apologize profoundly when you screw up
+##Lean In by Sheryl Sandberg:
+    • Parking for pregnant women
+    • Men should do 50% of housework
+    • Women should get rid of -ve stereotypes for empowerment
+##The 1 thing by Garry Keller and Jay Papasan:
+    • Never multitask, you need focus
+##The Brain Book by Phil Dobson:
+    • Eat healthy food(low GL Index)
+    • Have good sleep and exercise
+    • Meditate and be hyper focused on it for immunity
+    • To learn things, tell your brain, you need to learn and visualize while making connections to the thing you are learning
+##Build by Tony Fadell:
+    • Move unbelievably fast with unreasonable timelines
+    • Getting VC funding is like marriage, treat it like one with same precautions, seriousness, etc
+    • During times of crisis, over communicate
+    • Mergers should also be treated like marriage as its too easy to screw up due to culture differences, internal anti bodies, etc
+    • There should be pain, thats how good it should be
+    • Hire the best lawyers, a good lawyer should tell you loopholes to fix your problems.
+##You are not Your Brain by Jeffrey M. Schwartz, M.D. and Rebecca Gladding MD:
+    • Stroke can be cured with neuroplasticity, neuroplasticity can do anything
+    • To remove a habit follow below steps:
+    • Label
+        ◦ A disruptive brain msg is anything that is irrational hogging you down, so 1st you have to identify it
+    • Reframe
+        ◦ Tell you brain why is affects you and what it is:
+        ◦ Its just neurons firing or just society, don’t care about it
+    • Refocus
+    • Sometimes you have to re-evaluate
+##Games People Play by Eric Berne:
+    • If it weren’t for you: people choose restrictive partners and say if it weren’t for you
+    • Try and Get Away with It: people will do something bad will try and get away with it and when they are caught, frame you even when they are wrong
+    • See what you made me do: person gets angry and says see what you made me do do shut you up
+    • Corner: people corner you so whatever you say, they win
+    • Sweetheart: partner says dear or sweetheart and the end to appear good in front of others even when the statement contains a complaint
+    • Aint it awful: people bring things upon themselves to exploit sympathy of others
+    • Why Dont You, Yes But: people complain and find problems with every solution because they don’t want to solve the issue
+    • Look How Hard I Tried: people say this to get gains from others by telling them they tried hard
+    • Some people are afraid of intimacy so they play games, honesty is required for this
+##How to Talk to Anyone by Leil Lowndes:
+    • When meeting someone, give a small delay when you smile especially if you are a woman as if a woman smiles immediately, they are seen as untrustworthy
+    • Give a flooding smile after that
+    • If communication is between male and female or female and female, maintain constant eye contact, for male to male communication, they find is slightly threatening
+    • Killer Compliment – Give a compliment that is specific to that person at the right time, don’t use this too often or you will be seen as manipulative
+    • Parrot – Repeat last sentence or phrase a person said
+    • News – Read news to talk to people about something
+    • Learn a bit about everything to maintain conversation about even if there is no common interest
+    • Call people their names for them to do what you want them to do
+    • When you commit a mistake, repay them to the point they appreciate that you make the mistake
+    • If someone owes you something, don’t take the favor immediately
+    • Don’t talk bad things to people during parties
+    • Talk their language, if there is something secret that only they or organization knows, use it
+    • If both parties are passionate about a particular subject, surprise them that you are also passionate about the topic by delaying a bit
+    • Avoid fillers like “umm” and “ahh”
+    • Communication should be about them
+    • Instead of saying just Thank You say Thank You for the particular thing 
+#Thank You for taking time to read my summary of books that I have read! <3 :)
