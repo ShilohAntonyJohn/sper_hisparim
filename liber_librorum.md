@@ -295,5 +295,5 @@ Written by Shiloh Antony John, concepts outside of books maybe included. I try t
     * Exercise on the day of the speech to build endorphins
     * Visualize success 
     * Tell yourself 3,2,1,go right before giving the speech to get into the zone
-Thank You for taking time to read my summary of books that I have read! <3 :)
+Thank You for taking the time to read my summary of books that I have read! <3 :)
 This work is licensed under CC-BY-4.0. See the LICENSE file for full legal details
