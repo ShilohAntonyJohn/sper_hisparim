@@ -4,8 +4,6 @@
 
 A curated, no-fluff distillation of the most impactful books across psychology, entrepreneurship, biology, communication, and general knowledge — written by a builder, for builders.
 
-If you've ever wanted the core insight of a book without spending 6 hours reading filler, this is for you.
-
 **Why this over Blinkist or other summary services?**
 - **Free and open** — CC BY 4.0, no paywall, no account
 - **Builder's lens** — written by someone who actually ships products, not a book blogger. The curation reflects a practitioner's eye
